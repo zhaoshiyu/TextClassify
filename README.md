@@ -10,7 +10,7 @@
   mvn clean package
   java -jar target/TextClassify-0.0.1-SNAPSHOT.jar
   ```
-  如果想使用eclipse查看代码，可以使用:
+  如果想使用eclipse查看代码，可以通过:
   ```
   mvn eclipse:eclipse  
   ```
