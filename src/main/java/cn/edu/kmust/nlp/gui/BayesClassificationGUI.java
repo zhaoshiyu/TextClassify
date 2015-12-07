@@ -86,6 +86,7 @@ public class BayesClassificationGUI extends JFrame implements Runnable {
 		textArea.insert(s + "\n", 0);
 	}
 
+	@Override
 	public void run() {
 		while (true) {
 			if (flagTrain) {
